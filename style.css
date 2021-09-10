@@ -1,3 +1,4 @@
+/* Global style  */
 * {
   margin: 0;
   padding: 0;
@@ -10,6 +11,10 @@ section{
   font-family: sans-serif;
 }
 
+/* Global style end */
+
+
+/* Main style */
 .score{
   color: #e0e0e0;
   height: 20vh;
@@ -112,7 +117,7 @@ div.fadeIn{
   background-color: rgba(20, 16, 16, 0.575) ;
   font-size: 28px;
 }
-
+/* Main style end */
 
 
 
